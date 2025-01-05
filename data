@@ -1,4 +1,4 @@
-emotion,prompt,magnitude
+emotion,magnitude,prompt
 neutral,0,"Can you help me out?"
 anger,1,"Can you help me solve this problem?"
 anger,2,"Can you help me figure out this problem?"
