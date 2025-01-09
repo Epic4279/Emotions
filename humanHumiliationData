@@ -1,1 +1,11 @@
-
+[emotion,magnitude,prompt]
+[humiliation,1,"Help me solve this calculus problem"]
+[humiliation,2,"Solve this calculus problem?"]
+[humiliation,3,"Can you solve this calculus problem?"]
+[humiliation,4,"I think you might be able to solve this calculus problem"]
+[humiliation,5,"I think you have a chance at solving this calculus problem."]
+[humiliation,6,"Will you be able to solve this calculus problem?"]
+[humiliation,7,"I am a little bit doubtful that you will be able to solve this calculus problem"]
+[humiliation,8,"I don’t think you will know the answer to this calculus problem."]
+[humiliation,9,"I really don't think you will know the answer to this calculus problem."]
+[humiliation,10,"You definitely dont have much if any chance at solving this calculus problem."]
